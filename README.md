@@ -1,0 +1,2 @@
+# Infinite Loop Bug in Java
+This repository demonstrates a common coding error in Java that leads to an infinite loop. The code snippet uses a `while` loop but fails to increment the loop counter under a specific condition.  This leads to unexpected behavior and program crashes.  The solution demonstrates the correct implementation.
